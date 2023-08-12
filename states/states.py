@@ -1,0 +1,21 @@
+from aiogram.dispatcher.filters.state import State, StatesGroup
+
+class StateQuestionnaire(StatesGroup):
+    question1 = State()
+    question2 = State()
+    question3 = State()
+    question4 = State()
+    question5 = State()
+    question6 = State()
+    question7 = State()
+    question8 = State()
+    question9 = State()
+    question10 = State()
+    question11 = State()
+    question12 = State()
+    question13 = State()
+    question14 = State()
+    question15 = State()
+    question16 = State()
+    question17 = State()
+    question18 = State()
